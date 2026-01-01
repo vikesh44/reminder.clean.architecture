@@ -44,6 +44,12 @@ Log in / Register, then add and delete reminders.
 
 ## Clean Architecture Diagram
 
+### Classic Clean Architecture Layers (Concentric Circles)
+
+![Clean Architecture Concentric Circles](./client/src/images/Clean%20Architecture.jpg)
+
+### Detailed Component Diagram
+
 ```mermaid
 graph TB
     subgraph "External Layer"
