@@ -42,12 +42,6 @@ Log in / Register, then add and delete reminders.
 - CORS is configured to allow `http://localhost:5173`.
 - JWT tokens expire in 7 days.
 
-## Clean Architecture Diagram
-
-### Classic Clean Architecture Layers (Concentric Circles)
-
-![Clean Architecture Concentric Circles](./client/src/images/Clean%20Architecture.jpg)
-
 ### Detailed Component Diagram
 
 ```mermaid
